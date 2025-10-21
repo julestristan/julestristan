@@ -4,7 +4,9 @@ My name is Tristan and I am a Data Scientist & MLOps Engineer from France <img s
 
 ## 📌 Find me there 
 
-🤗 Hugging Face : https://huggingface.co/julestristan  
+🤗 Hugging Face : https://huggingface.co/julestristan
+
+💻 Kaggle : https://www.kaggle.com/tristanjules33
 
 🔗 Linkedin : https://www.linkedin.com/in/tristan-jules/  
 
