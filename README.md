@@ -8,6 +8,4 @@ My name is Tristan and I am a Data Scientist & MLOps Engineer from France <img s
 
 💻 Kaggle : https://www.kaggle.com/tristanjules33
 
-🔗 Linkedin : https://www.linkedin.com/in/tristan-jules/  
-
-✉️ Mail : tristanjules@kakao.com  
+🔗 Linkedin : https://www.linkedin.com/in/tristan-jules/
