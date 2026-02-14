@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there<br><br>My name is Tristan and I am Data & MLOps Engineer from France <br><br>Currently learning Golang (Go)<br><br>📌 Find me there:<br><br>🤗 Hugging Face : https://huggingface.co/julestristan<br><br>🔗 Linkedin : https://www.linkedin.com/in/tristan-jules/
+👋 Hi there<br><br>My name is Tristan and I am Data & ML Engineer from France <br><br>Currently working on my himid project (available in pin)<br><br>📌 Find me there:<br><br>🤗 Linkedin : https://www.linkedin.com/in/tristan-jules/
 
 
 # 💻 Tech Stack:
