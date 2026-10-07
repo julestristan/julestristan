@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there<br><br>My name is Tristan and I am Data & ML Engineer from France <br><br>📌 Find me there:<br><br>🤗 Linkedin : https://www.linkedin.com/in/tristan-jules/
+👋 Hi there<br><br>My name is Tristan and I am a Data Engineer from France <br><br>📌 Find me there:<br><br>🤗 Linkedin : https://www.linkedin.com/in/tristan-jules/
 
 
 # 💻 Tech Stack:
